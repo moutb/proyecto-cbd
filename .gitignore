@@ -1,0 +1,6 @@
+node_modules
+backend/node_modules
+
+couchdb/couch1data
+couchdb/couch2data
+couchdb/couch3data
